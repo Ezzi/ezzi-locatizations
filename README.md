@@ -52,3 +52,8 @@ Android: https://play.google.com/store/apps/details?id=com.ezzi.cidertv&utm_sour
 ### Who do I talk to? ###
 
 Алмас - almas@ezzi.com
+Если что-то изменится - на этой странице будет объявления
+
+### Объявления ###
+
+Пока ничего нового на 11 февраля
