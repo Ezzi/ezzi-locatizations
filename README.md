@@ -51,12 +51,15 @@ OS X: https://raw.githubusercontent.com/Ezzi/ezzi-locatizations/master/cidertv/s
 	- Экселька с метаданными
 	- файлики ios.strings & osx.strings с полностью заполненными полями
 
-### Who do I talk to? ###
+### Если возникли вопросы ###
 
-Алмас - almas@ezzi.com
+Если у вас есть вопросы, то посмотрите в [FAQ](https://github.com/Ezzi/ezzi-locatizations/blob/master/FAQ.md)
+
+Пишите в почту: Алмас - almas@ezzi.com
 
 Если что-то изменится - на этой странице будет объявления
 
 ### Объявления ###
 
+Добавлен [FAQ](https://github.com/Ezzi/ezzi-locatizations/blob/master/FAQ.md)
 Пока ничего нового на 11 февраля
