@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  app
+
+  Created by Almas Abulkhairov on 08.02.16.
+*/
+
+/* Main */
+"Help" = "";
+"Devices" = "";
+"Rename" = "";
+"Forget" = "";
+
+/* In app purchases */
+"close" = "";
+"restore_purchases" = "";
+"what_are_slots" = "";
+"one_slot_desc" = "";
+"unlock_1" = "";
+"unlimited_slots" = "";
+"alternative_slot_option" = "";
+"not_enough_minerals" = "";
+
+/* Add device */
+"add_device" = "";
+"pairing_required" = "";
+"take_apple_remote" = "";
+"Settings_General_Remotes" = "";
+"Select_CiderTV_text" = "";
+"enter_passcode" = "";
+"lost_remote" = "";
+"success" = "";
+"manually" = "";
+"enter_ip_address" = "";
+"connect" = "";
+"apple_tv_ip" = "";
+
+
+/* Dialogues */
+"enter_name_of_device" = "";
+"confirm_forget" = "";
+"FAQ" = "";
+"ask_support" = "";
+"cancel" = "";
+
+/* Control */
+"menu" = "";
+"select" = "";
+"up" = "";
+"down" = "";
+"left" = "";
+"right" = "";
+"link_tv_title" = "";
+"none" = "";
+
+/* Basic Guide */
+"done" = "";
+"basic" = "";
+"gestures" = "";
+"basic_controls" = "";
+"central_text" = "";
+"link_tv_guide" = "";
+"mute_guide" = "";
+"send_text_guide" = "";
+
+/* Gestures Guide */
+"one_finger_tap_guide" = "";
+"long_tap_guide" = "";
+"double_tap_guide" = "";
+"one_finger_swipe_guide" = "";
+"one_finger_tap_guide" = "";
+"swipe_left_guide" = "";
+"swipe_right_guide" = "";
+"slomo_guide" = "";
+
+/* Alerts */
+"device_success_added" = "";
+"device_already_found" = "";
+"device_was_found" = "";
+"cant_receive_mac_address" = "";
+"purchase_successful" = "";
+"purchase_not_valid" = "";

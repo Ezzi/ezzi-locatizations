@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  app
+
+  Created by Almas Abulkhairov on 08.02.16.
+*/
+
+/* Add */
+"check_bluetooth" = "";
+"open_bt_preferences" = "";
+"if_i_lost_title" = "";
+"if_i_lost_description" = "";
+"if_i_have_title" = "";
+"if_i_have_desc" = "";
+"open_tutorial" = "";
+
+
+/* Hints */
+"menu" = "";
+"select" = "";
+"up" = "";
+"down" = "";
+"left" = "";
+"right" = "";
+"main_controls" = "";
+"hotkeys" = "";
+"select_prev" = "";
+"select_next" = "";
+"hide_unhide" = "";
+"delete" = "";
